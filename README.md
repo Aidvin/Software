@@ -16,7 +16,7 @@
 ## Storage
 - [Immich](https://immich.app/) | free self-hosted Google photos alternative
 ## Tools
-Browser
+###Browser
 - [Zen Browser](https://zen-browser.app/) | clean, privacy-focused 
 - [Brave](https://brave.com/) | adblocker, Youtube Premium alternative
 ### Compression
