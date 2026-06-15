@@ -15,6 +15,9 @@
 - [LibreOffice](https://www.libreoffice.org/) free Microsoft 365 alternative
 ## Storage
 - [Immich](https://immich.app/) free self-hosted Google photos alternative
+## Tools
+- [XnConvert)(https://www.xnview.com/en/xnconvert/#downloads]) Image compression Windows GUI
+- [PeaZip](https://peazip.github.io/)PAQ, LPAQ, ZPAQ compression
 ## OS
 - [TrueNAS](https://www.truenas.com/) NAS
 
