@@ -9,8 +9,8 @@
     - [Feishin](https://github.com/jeffvli/feishin) | Windows Navidrome player
 ## Networking 
 - [OpenVPN](https://openvpn.net/) free VPN solution
-    - [List 1](https://github.com/9xN/auto-ovpn) | .ovpn to use with OpenVPN
-    - [List 2](https://github.com/Zoult/.ovpn) | .opvn to use with OpenVPN
+    - [List 1](https://github.com/9xN/auto-ovpn) .ovpn to use with OpenVPN
+    - [List 2](https://github.com/Zoult/.ovpn) .opvn to use with OpenVPN
 ## Productivity 
 - [LibreOffice](https://www.libreoffice.org/) | free Microsoft 365 alternative
 ## Storage
