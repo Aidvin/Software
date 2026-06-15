@@ -15,15 +15,16 @@
 - [LibreOffice](https://www.libreoffice.org/) | free Microsoft 365 alternative
 ## Storage
 - [Immich](https://immich.app/) | free self-hosted Google photos alternative
+- [FreeFileSync](https://freefilesync.org/) | 
 ## Tools
 ### Browser
-- [Zen Browser](https://zen-browser.app/) | clean, privacy-focused 
-- [Brave](https://brave.com/) | adblocker, Youtube Premium alternative
+- [Zen Browser](https://zen-browser.app/) clean, privacy-focused 
+- [Brave](https://brave.com/)  adblocker, Youtube Premium alternative
 ### Compression
-- [XnConvert](https://www.xnview.com/en/xnconvert/#downloads) | Image compression Windows GUI
-- [PeaZip](https://peazip.github.io/) | PAQ, LPAQ, ZPAQ file compression Windows GUI
-- [fre:ac](https://www.freac.org/) | Audio encoder Windows GUI
-- [Handbrake](https://handbrake.fr) | Video encoder Windows GUI
+- [XnConvert](https://www.xnview.com/en/xnconvert/#downloads) Image compression Windows GUI
+- [PeaZip](https://peazip.github.io/) PAQ, LPAQ, ZPAQ file compression Windows GUI
+- [fre:ac](https://www.freac.org/) Audio encoder Windows GUI
+- [Handbrake](https://handbrake.fr) Video encoder Windows GUI
 ## OS
 - [TrueNAS](https://www.truenas.com/) Desktop NAS solution
 - [Termux](https://f-droid.org/en/packages/com.termux/) Terminal emulation for android
