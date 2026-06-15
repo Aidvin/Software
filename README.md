@@ -7,6 +7,9 @@
 - [Navidrome server-side](https://www.navidrome.org/) | free self-hosted Spotify alternative
     - [Arpeggi](https://apps.apple.com/us/app/arpeggi/id6503619183) | IOS Navidrome player
     - [Feishin](https://github.com/jeffvli/feishin) | Windows Navidrome player
+ ### Books
+ - [Kavita](https://www.kavitareader.com/) free Self-hosted digital book library
+ - [Gameyfin](https://gameyfin.org/) free Self-hosted digital game library
 ## Networking 
 - [OpenVPN](https://openvpn.net/) free VPN solution
     - [List 1](https://github.com/9xN/auto-ovpn) .ovpn to use with OpenVPN
