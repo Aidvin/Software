@@ -7,7 +7,10 @@
 - [Navidrome server-side](https://www.navidrome.org/) self-hosted Spotify alternative
     - [Arpeggi](https://apps.apple.com/us/app/arpeggi/id6503619183) IOS Navidrome player
     - [Feishin](https://github.com/jeffvli/feishin) Windows Navidrome player
-
+## Networking 
+- [OpenVPN](https://openvpn.net/) VPN solution
+    - [List 1](https://github.com/9xN/auto-ovpn) .ovpn to use with OpenVPN
+    - [List 2](https://github.com/Zoult/.ovpn)   .opvn to use with OpenVPN
 ## Productivity 
 - [LibreOffice](https://www.libreoffice.org/) Microsoft 365 alternative
 ## Storage
