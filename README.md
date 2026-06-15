@@ -19,7 +19,8 @@
 ### Compression
 - [XnConvert](https://www.xnview.com/en/xnconvert/#downloads) | Image compression Windows GUI
 - [PeaZip](https://peazip.github.io/) | PAQ, LPAQ, ZPAQ file compression Windows GUI
-- [fre:ac](https://www.freac.org/) | Audio decoder - encoder Windows GUI
+- [fre:ac](https://www.freac.org/) | Audio encoder Windows GUI
+- [Handbrake](https://handbrake.fr) | Video encoder Windows GUI
 ## OS
 - [TrueNAS](https://www.truenas.com/) NAS
 
