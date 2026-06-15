@@ -9,6 +9,7 @@
     - [Feishin](https://github.com/jeffvli/feishin) | Windows Navidrome player
  ### Books
  - [Kavita](https://www.kavitareader.com/) free Self-hosted digital book library
+### Games
  - [Gameyfin](https://gameyfin.org/) free Self-hosted digital game library
 ## Networking 
 - [OpenVPN](https://openvpn.net/) free VPN solution
