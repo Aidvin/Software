@@ -12,7 +12,7 @@
 - [Navidrome server-side](https://www.navidrome.org/) self-hosted Spotify alternative
     - [Arpeggi](https://apps.apple.com/us/app/arpeggi/id6503619183) IOS Navidrome player
     - [Feishin](https://github.com/jeffvli/feishin) Windows Navidrome player
-## Cloud
+## Storage
 - [Immich](https://immich.app/) self-hosted Google photos alternative
 
 ## To Try
