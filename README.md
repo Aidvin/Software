@@ -11,7 +11,7 @@
     - [Arpeggi](https://apps.apple.com/us/app/arpeggi/id6503619183) IOS Navidrome player
     - [Feishin](https://github.com/jeffvli/feishin) Windows Navidrome player
 ## Photos
-- [Immich](https://immich.app/)
+- [Immich](https://immich.app/) self-hosted Google photos alternative
 
 ## To Try
 
