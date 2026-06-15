@@ -16,6 +16,7 @@
 ## Storage
 - [Immich](https://immich.app/) | free self-hosted Google photos alternative
 ## Tools
+### Compression
 - [XnConvert](https://www.xnview.com/en/xnconvert/#downloads) | Image compression Windows GUI
 - [PeaZip](https://peazip.github.io/) | PAQ, LPAQ, ZPAQ file compression Windos GUI
 ## OS
