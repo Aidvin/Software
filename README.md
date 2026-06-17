@@ -5,6 +5,7 @@
     - [Swiftfin client-side](https://apps.apple.com/us/app/swiftfin/id1604098728) | IOS Jellyfin player
     - [Wolphin](https://play.google.com/store/apps/details?id=com.github.damontecres.wholphin) | Android TV Jellyfin player
     - [Jellyfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile&pcampaignid=web_share) | Official android Jellyfin player
+    - [Jellyfin](https://github.com/jellyfin-archive/jellyfin-desktop-qt/releases) | Official desktop Jellyfin player
 ### Music
 - [Navidrome server-side](https://www.navidrome.org/) | free self-hosted Spotify alternative
     - [Arpeggi](https://apps.apple.com/us/app/arpeggi/id6503619183) | IOS Navidrome player
