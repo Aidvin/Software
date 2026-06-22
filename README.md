@@ -14,6 +14,9 @@
  - [Kavita](https://www.kavitareader.com/) free Self-hosted digital book library
 ### Games
  - [Gameyfin](https://gameyfin.org/) free Self-hosted digital game library
+ - [RPCS3](https://rpcs3.net/) PlayStation 3 emulator
+      - [Firmware](http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2026_0318_a2b60b6ac1d2e49e230144345616927c/PS3UPDAT.PUP)
+ - 
 ## Networking 
 - [OpenVPN](https://openvpn.net/) free VPN solution
     - [List 1](https://github.com/9xN/auto-ovpn) .ovpn to use with OpenVPN
